@@ -10,19 +10,19 @@ Currently, I’m working at **Evolvex Technology** as a **Software Developer**, 
 
 ## 🛠 Tech Stack & Tools
 
-- **Backend:** PHP, Laravel, Lumen, RESTful APIs
-- **Frontend:** Vue.js, Nuxt.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript
+- **Backend:** PHP, Laravel, Lumen, Node.js, Yii1.1, RESTful APIs
+- **Frontend:** Vue.js, Nuxt.js, Tailwind CSS, Livewire, Bootstrap, HTML5, CSS3, JavaScript
 - **Database:** MySQL, MongoDB
 - **DevOps:** Docker, GitHub Actions, Linux, Nginx
-- **Others:** Git, Postman, Figma, VS Code
+- **Others:** Git, Postman, Figma, VS Code, Jira
 
 ---
 
 ## 📫 Let's Connect
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: your.email@example.com
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/emad-aldin-ali-707204174/)  
+- 🌐 [Portfolio](https://omdasoft.dev)  
+- 📧 Email: emadeldeen_ali@hotmail.com
 
 ---
 

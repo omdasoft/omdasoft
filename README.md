@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emad Aldin Ali (aka Omda)
+# 👋 Hello, I'm Emad Aldin Ali (Omda)
 
 🚀 **Full-Stack Web Developer** | 💻 PHP (Laravel, Lumen), Vue.js, Nuxt.js, Tailwind CSS
 

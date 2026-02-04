@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Emad Aldin Ali (Omda)
 
-🚀 **Full-Stack Web Developer** | 💻 PHP (Laravel, Lumen), Vue.js, Nuxt.js, Tailwind CSS
+🚀 **Full-Stack Web Developer** | 💻 PHP (Laravel, Lumen), Node.j, Vue.js, Nuxt.js, Tailwind CSS, MySQL, MongoDB
 
 I'm a passionate full-stack developer with over 7 years of experience building modern, scalable web applications from the ground up. I specialize in backend development with **Laravel/Lumen**, and I love crafting clean, interactive UIs using **Vue.js**, **Nuxt.js**, **Tailwind**, and **Bootstrap**.
 

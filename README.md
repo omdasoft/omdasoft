@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Web Developer** | 💻 PHP (Laravel, Lumen), Node.j, Vue.js, Nuxt.js, Tailwind CSS, MySQL, MongoDB
 
-I'm a passionate full-stack developer with over 7 years of experience building modern, scalable web applications from the ground up. I specialize in backend development with **Laravel/Lumen**, and I love crafting clean, interactive UIs using **Vue.js**, **Nuxt.js**, **Tailwind**, and **Bootstrap**.
+I'm a passionate full-stack developer with over 6 years of experience building modern, scalable web applications from the ground up. I specialize in backend development with **Laravel/Lumen**, and I love crafting clean, interactive UIs using **Vue.js**, **Nuxt.js**, **Tailwind**, and **Bootstrap**.
 
 Currently, I’m working as a Freelance Software Developer, helping build and maintain production-grade systems with a strong focus on performance, security, and user experience.
 
